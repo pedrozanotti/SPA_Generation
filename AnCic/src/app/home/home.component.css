@@ -1,0 +1,13 @@
+.parallax {
+    
+     background-image: url('https://vomitossubversivos.files.wordpress.com/2014/04/anarco-ciclismo.jpg');
+
+     min-height: 500px;
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+
+}
